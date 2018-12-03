@@ -25,7 +25,7 @@ export default {
   h1, h2{
     font-weight: normal;
   }
-  ol{
+  ul{
     list-style-type: none;
     padding: 0;
   }
